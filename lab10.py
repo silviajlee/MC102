@@ -1,4 +1,4 @@
-"Roteiro do Lab. 10: https://www.ic.unicamp.br/~mc102/mc102-1s2020/labs/roteiro-lab10.html"
+#"Roteiro do Lab. 10: https://www.ic.unicamp.br/~mc102/mc102-1s2020/labs/roteiro-lab10.html"
 import copy
 #entrada
 padrao = []
