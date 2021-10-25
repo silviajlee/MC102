@@ -1,3 +1,4 @@
+"Roteiro do Lab. 12: https://www.ic.unicamp.br/~mc102/mc102-1s2020/labs/roteiro-lab12.html"
 #entrada
 lista = []
 entrada = input()
