@@ -1,4 +1,4 @@
-"Roteiro do Lab. 13: https://www.ic.unicamp.br/~mc102/mc102-1s2020/labs/roteiro-lab13.html"
+#"Roteiro do Lab. 13: https://www.ic.unicamp.br/~mc102/mc102-1s2020/labs/roteiro-lab13.html"
 #entrada
 procurado = int(input())
 entrada = input()
