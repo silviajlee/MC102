@@ -1,3 +1,4 @@
+"Roteiro do Lab.11: https://www.ic.unicamp.br/~mc102/mc102-1s2020/labs/roteiro-lab11.html"
 #usuarios
 usuario = input()
 lista_nomes = []
